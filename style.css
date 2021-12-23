@@ -295,7 +295,7 @@ p {
     grid-column-start: 4;
     grid-column-end: 5;
     margin-top: 20px;
-    background-color: white;
+    background-color: beige;
 
   
 }
@@ -1099,7 +1099,7 @@ p {
     grid-column-start: 4;
     grid-column-end: 5;
     margin-top: 20px;
-    background-color: white;
+    background-color: beige;
 
     
 }
@@ -1561,7 +1561,7 @@ font-family: 'roboto';
         grid-column-start: 4;
         grid-column-end: 5;
         margin-top: 20px;
-        background-color: white;
+        background-color: beige;
     
         
     }
