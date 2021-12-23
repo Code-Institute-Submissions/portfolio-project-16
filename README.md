@@ -1,3 +1,6 @@
+View the live project here: https://thomasjuth.github.io/portfolio-project-1/
+
+
 <h1 align="center">Tommy's Burritos Website</h1>
 
 
@@ -71,8 +74,8 @@ This is the main website for Tommy's Burritos, an imaginary Mexican Restaurant b
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/#textarea)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/#textarea/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://thomasjuth.github.io/portfolio-project-1/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthomasjuth.github.i[…]&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es)
 
 ### Testing User Stories from User Experience (UX) Section
 
