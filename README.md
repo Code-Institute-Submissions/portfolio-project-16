@@ -1,9 +1,9 @@
 <h1 align="center">Tommy's Burritos Website</h1>
 
 
-This is the main website for an imaginary restaurant called Tommy's Burritos. It is designed to be responsive and accessible on a range of devices, using a "mobile phone first" approach.
+This is the main website for Tommy's Burritos, an imaginary Mexican Restaurant based in Stockholm. It is designed to be responsive and accessible on a range of devices, using a "mobile phone first" approach.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="./photos/responsive.png"></h2>
 
 ## User Experience (UX)
 
@@ -11,17 +11,18 @@ This is the main website for an imaginary restaurant called Tommy's Burritos. It
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I simply want to get a feel for the food and vibe the restaurant stands for, and ultimatiely feel like trying out the food. 
+        1. As a First Time Visitor, I simply want to get a feel for the restaurant, in terms of the menu, vibe and location. The ultimate goal is to make the visitor want to try the food.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. 
         3. As a First Time Visitor, I want to be aware of where I can find the restaurant and how I can get more info if needed. 
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have. However, this is not the type of website that one return to many times. The idea is to introduce the restaurant and that people come back to eat regularly.
+        1. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have. 
+        
        
 
     -   #### Frequent User Goals
-        1. This is not the type of website you come back to frequently. Once you have found out about Tommy's Burritos you hopefully want to return to the actual restaurant frequently. People can also get updates from the Facebook, Instagram and Twitter. But the website is more a way for first time visitors to learn more.
+        1. This is not the type of website that one is likely return to many times. The main goal is simply to introduce the restaurant and make people want to try the food. Once you have found out about Tommy's Burritos you hopefully want to return to the actual restaurant frequently, rather than the website. People can also get updates from the Facebook, Instagram and Twitter. But the website is more a way for first time visitors to learn more.
        
 
 -   ### Design
@@ -30,15 +31,15 @@ This is the main website for an imaginary restaurant called Tommy's Burritos. It
     -   #### Typography
         -   The Arial font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Arial is a clean font which I really like, I felt that it was also suits the look of the page.
     -   #### Imagery
-        -   Imagery is important. I chose high quality pictures of Burritos, with the aim of making the visitor hungry. 
+        -   Imagery is important. I chose high quality pictures of Burritos, with the aim of making the visitor feel hungry. 
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](https://share.balsamiq.com/c/ueT19it3qmMogqy3b4FB6X.png)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - [View](https://share.balsamiq.com/c/aVdG5YbtuKonzxqaKr7e2u.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+   
 
 ## Features
 
@@ -70,8 +71,8 @@ This is the main website for an imaginary restaurant called Tommy's Burritos. It
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/#textarea)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/#textarea/)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -103,8 +104,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Known Bugs
 
     The hotizontal position of the Text Area Field in the Comments section is slightly off, but somehow it is not behaving as instructed. 
-
-## Deployment
 
 ### GitHub Pages
 
@@ -148,15 +147,12 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
-```
+
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
-## Credits
 
-### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
 ### Content
 
 -   All content was written by the developer.
