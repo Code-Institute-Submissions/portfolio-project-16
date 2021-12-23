@@ -154,7 +154,9 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
+### Credits
 
+    1. The actual content in the menu was taken from an already existing Mexican Restaurant, Tom Tom's Burritos. This was to ensure that the food was authentic and as close as possbile to Mexican food.
 
 ### Content
 
